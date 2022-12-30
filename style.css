@@ -1,0 +1,25 @@
+nav{
+    background-color: #03969e;
+}
+
+nav ul{
+list-style: none;
+display: flex;
+}
+
+nav li{
+    flex: 1;
+    text-align: center;
+    display: inline-block;
+    font-family: Helvetica;
+    
+}
+
+nav a{
+    display: block;
+
+}
+
+nav a:hover {
+
+}
